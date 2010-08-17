@@ -3,11 +3,14 @@
 <script runat="server">
 	protected void Page_Load() {
 		Response.Write("Page_Load");
-		textBox1.Text = "55";
+		if (!Page.IsPostBack) {
+			textBox1.Text = "55";
+		}
 	}
 
 	protected void DoSubmit(object sender, EventArgs a) {
 		Response.Write("<p>DoSubmit</p>");
+		label1.Text = "You entered: " + textBox1.Text;
 	}
 </script>
 
@@ -17,7 +20,10 @@
       <h2>Hello W3Schools!</h2>
 	<p> <%=System.DateTime.Now%> </p>
 	<form id="mainForm" runat="server">
-		<asp:TextBox id = "textBox1" runat="server"/>
+		<asp:TextBox id="textBox1" runat="server"/>
+		<p>
+			<asp:Label id="label1" runat="server"/>
+		</p>
 		<p>
 			<asp:RangeValidator
 				runat="server"
