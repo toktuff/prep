@@ -1,2 +1,4 @@
 *~
 *.stackdump
+bin/*.dll
+bin/

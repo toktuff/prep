@@ -1,4 +1,4 @@
-<%@ Page Language="C#" MasterPageFile="master1.master" %>
+<%@ Page Language="C#" MasterPageFile="master1.master" Inherits="Toktuff.FirstPage"%>
 
 <script runat="server">
 	protected void Page_Load() {
