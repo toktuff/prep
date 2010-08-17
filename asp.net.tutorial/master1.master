@@ -1,0 +1,9 @@
+<%@ Master %>
+
+      <html>
+	<body>
+	  <h1>toktuff does web magic.</h1>
+	  <
+	  <asp:ContentPlaceHolder id="mainCPH" runat="server"/>
+	</body>
+      </html>
