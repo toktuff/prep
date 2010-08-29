@@ -11,3 +11,4 @@ C:\Users\Andreas\Code\Projects\prep\ShopList\ShopList\bin\Rhino.Mocks.xml
 C:\Users\Andreas\Code\Projects\prep\ShopList\ShopList\bin\Machine.Specifications.DevelopWithPassion.pdb
 C:\Users\Andreas\Code\Projects\prep\ShopList\ShopList\bin\Machine.Specifications.pdb
 C:\Users\Andreas\Code\Projects\prep\ShopList\ShopList\bin\Machine.Specifications.DevelopWithPassion.Rhino.pdb
+C:\Users\Andreas\code\Projects\prep\ShopList\ShopList\bin\nunit.framework.dll

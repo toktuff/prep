@@ -5,13 +5,22 @@ namespace ShopList.Model
 {
     public class FileShoppingListRepository
     {
-        public Guid Add(ShoppingList list)
+        readonly IFileSystem _fileSystem;
+
+        public FileShoppingListRepository(IFileSystem fileSystem)
         {
-            return Guid.NewGuid();
+            _fileSystem = fileSystem;
         }
 
-        public ShoppingList Get(Guid id)
+        public void Add(IShoppingList list)
         {
+         //   _fileSystem.Save(list.Id.ToString("N"), new MemoryStream());
+            _fileSystem.Save(list.Id.ToString("N").ToUpper(), null);
+        }
+
+        public IShoppingList Get(Guid id)
+        {
+            _fileSystem.Load(id.ToString("N").ToUpper());
             return new ShoppingList
                        {
                            Id = id

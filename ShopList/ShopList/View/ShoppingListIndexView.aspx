@@ -19,9 +19,9 @@
             </th>
         </tr>
         <%
-            for (int i = 0; i < _names.Count; i++) {
-                var name = _names[i];
-            var id = _ids[i];
+            for (int i = 0; i < Names.Count; i++) {
+                var name = Names[i];
+            var id = Ids[i];
           %>
           <tr>
           <td>
@@ -29,7 +29,7 @@
           </td>
           <td>
               <asp:Button ID="deleteButton" runat="server" Text="Delete" 
-                  onclick="deleteButton_Click"/>     
+                  onclick="DeleteButtonClick"/>     
           </td>
           </tr>
         <%} %>

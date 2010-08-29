@@ -42,6 +42,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\machine101\thirdparty\Machine.Specifications-net-3.5-Debug\Machine.Specifications.DevelopWithPassion.Rhino.dll</HintPath>
     </Reference>
+    <Reference Include="nunit.framework, Version=2.5.3.9345, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\nrun2\NRun\lib\NUnit-2.5.3.9345\bin\net-2.0\nunit.framework.dll</HintPath>
+    </Reference>
     <Reference Include="Rhino.Mocks, Version=3.6.0.0, Culture=neutral, PublicKeyToken=0b3305902db7183f, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\machine101\thirdparty\Machine.Specifications-net-3.5-Debug\Rhino.Mocks.dll</HintPath>
@@ -81,12 +85,15 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Model\IShoppingList.cs" />
     <Compile Include="Model\IShoppingListRepository.cs" />
     <Compile Include="Presenter\IShoppingListIndexView.cs" />
     <Compile Include="Presenter\ShoppingListIndexPresenter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Model\FileShoppingListRepository.cs" />
     <Compile Include="Model\ShoppingList.cs" />
+    <Compile Include="Test\FileRepositoryTests.cs" />
+    <Compile Include="Test\IFileSystem.cs" />
     <Compile Include="Test\ShoppingListFileRepositorySpecs.cs" />
     <Compile Include="View\ShoppingListIndexView.aspx.cs">
       <DependentUpon>ShoppingListIndexView.aspx</DependentUpon>
