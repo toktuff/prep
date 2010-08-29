@@ -1,0 +1,183 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx.designer.cs" caret="1492" fromTop="31" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/f:Default.aspx" caret="0" fromTop="0" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/f:Default.aspx.cs" caret="0" fromTop="0" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Model/f:IShoppingListRepository.cs" caret="50" fromTop="1" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Presenter/f:IShoppingListIndexView.cs" caret="78" fromTop="3" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Presenter/f:ShoppingListIndexPresenter.cs" caret="539" fromTop="20" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx" caret="465" fromTop="7" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx.cs" caret="885" fromTop="14" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="1116" fromTop="13" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Model/f:FileShoppingListRepository.cs" caret="49" fromTop="2" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Model/f:ShoppingList.cs" caret="130" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx.cs" caret="1416" fromTop="26" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx.cs" caret="1356" fromTop="26" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Presenter/f:ShoppingListIndexPresenter.cs" caret="539" fromTop="20" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx" caret="863" fromTop="15" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx" caret="866" fromTop="15" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx" caret="1028" fromTop="19" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx" caret="1132" fromTop="7" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx" caret="465" fromTop="7" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx.cs" caret="797" fromTop="25" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:View/f:ShoppingListIndexView.aspx.cs" caret="928" fromTop="14" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="5" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="0" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="3" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="15" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="7" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="17" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="7" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="10" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="7" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="4" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="176" fromTop="8" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="0" fromTop="0" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="439" fromTop="10" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="1043" fromTop="9" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="656" fromTop="8" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="1116" fromTop="12" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="1116" fromTop="14" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Test/f:ShoppingListFileRepositorySpecs.cs" caret="1116" fromTop="13" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Model/f:FileShoppingListRepository.cs" caret="49" fromTop="2" />
+      <File id="85874D51-D5E5-43C7-95C0-DCB72BCE1E7B/d:Model/f:ShoppingList.cs" caret="27" fromTop="1" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="ctor" priority="0" />
+      <Item value="IShoppingListIndexView`0" priority="0" />
+      <Item value="shoppingListIndexView" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="IShoppingListIndexView" priority="0" />
+      <Item value="ShoppingListIndexPresenter`0" priority="1" />
+      <Item value="_presenter" priority="1" />
+      <Item value="_shoppingListIndexView" priority="0" />
+      <Item value="new" priority="11" />
+      <Item value="_view" priority="4" />
+      <Item value="IList" priority="0" />
+      <Item value="Guid`0" priority="4" />
+      <Item value="ListBox`0" priority="0" />
+      <Item value="Pair`0" priority="0" />
+      <Item value="shoppingLists" priority="2" />
+      <Item value="Pair" priority="0" />
+      <Item value="List&lt;Pair&gt;" priority="0" />
+      <Item value="BulletedList1" priority="0" />
+      <Item value="ListItem`0" priority="0" />
+      <Item value="name" priority="0" />
+      <Item value="bulletedList" priority="0" />
+      <Item value="i" priority="0" />
+      <Item value="List" priority="1" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="List&lt;Guid&gt;" priority="0" />
+      <Item value="_names" priority="3" />
+      <Item value="_ids" priority="2" />
+      <Item value="foreach" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="ShopList" priority="1" />
+      <Item value="Button`0" priority="1" />
+      <Item value="sender" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="id" priority="1" />
+      <Item value="HtmlTableRow" priority="0" />
+      <Item value="TableHeaderRow`0" priority="0" />
+      <Item value="headers" priority="0" />
+      <Item value="TableCell`0" priority="0" />
+      <Item value="TableCell" priority="0" />
+      <Item value="HtmlTableCell`0" priority="0" />
+      <Item value="when_retrieving_lists_from_the_repository`0" priority="1" />
+      <Item value="Because`0" priority="1" />
+      <Item value="_repository" priority="0" />
+      <Item value="_list" priority="2" />
+      <Item value="int" priority="0" />
+      <Item value="It`0" priority="1" />
+      <Item value="IDisposable`0" priority="0" />
+      <Item value="_result" priority="1" />
+      <Item value="Observes" priority="1" />
+      <Item value="FileShoppingListRepository`0" priority="1" />
+      <Item value="return" priority="1" />
+      <Item value="Guid" priority="0" />
+      <Item value="sut" priority="2" />
+      <Item value="public" priority="0" />
+      <Item value="class" priority="1" />
+      <Item value="Establish`0" priority="0" />
+      <Item value="ShoppingList" priority="1" />
+      <Item value="when_adding_list_to_repository`0" priority="0" />
+      <Item value="ShoppingList`0" priority="0" />
+      <Item value="_id" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="1" />
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Clear`0" priority="1" />
+      <Item value="Add`0" priority="2" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.Pair">
+      <Item value="Second" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.BulletedList">
+      <Item value="Items" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItemCollection">
+      <Item value="Clear`0" priority="0" />
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.CheckBoxList">
+      <Item value="Items" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="0" />
+      <Item value="ShouldNotBeOfType`0" priority="0" />
+      <Item value="ShouldNotEqual`1" priority="0" />
+      <Item value="ShouldEqual`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Button">
+      <Item value="CommandArgument" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ShopList.View.ShoppingListIndexView">
+      <Item value="theTable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlTable">
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlTableRowCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableHeaderRow">
+      <Item value="Cells" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableCellCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ShopList.Test.FileShoppingListRepository">
+      <Item value="Add`0" priority="1" />
+      <Item value="GetHashCode`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

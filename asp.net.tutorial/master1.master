@@ -1,8 +1,34 @@
 <%@ Master %>
+      <html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+          <link rel="stylesheet" type="text/css" href="WhiteLove/style.css" />
+  </head>
+    
+    <body>
+      <div id="wrap">
+	
+	<div id="header">
+	  <div id="header">
+	    <h1><a href="#"> prep</a> </h1>
+	    <h2>toktuff does web magic...</h2>
+	  </div>
+	</div>
 
-      <html>
-	<body>
-	  <h1>toktuff does web magic.</h1>
-	  <asp:ContentPlaceHolder id="mainCPH" runat="server"/>
-	</body>
+
+        <div id="content">
+	  <div id="left">
+	    <asp:ContentPlaceHolder id="mainCPH" runat="server"/>
+	  </div>
+	  <div id="right">
+	    <h2>Blank</h2>
+	    <p>Very blank.</p>
+	  </div>
+	</div>
+      
+      <div id="footer">
+	This is the footer.
+      </div>
+
+    </div>
+    </body>
       </html>

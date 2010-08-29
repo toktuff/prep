@@ -1,4 +1,6 @@
 *~
 *.stackdump
+*.suo
 bin/*.dll
 bin/
+_ReSharper.*/

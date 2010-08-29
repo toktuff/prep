@@ -1,8 +1,6 @@
 <%@ Page Language="C#" MasterPageFile="master1.master" Inherits="Toktuff.FirstPage"%>
 
 <asp:Content ContentPlaceHolderId="mainCPH" runat="server">
-  <body bgcolor="yellow">
-    <center>
 	<form id="mainForm" runat="server">
 		<asp:RadioButtonList id="rb" runat="server"/>
 		<asp:TextBox id=textBox1 runat="server"/>
@@ -20,6 +18,4 @@
 		</p>
 		<asp:Button id="button1" runat="server" Text="Submit!"/>
 	</form>
-    </center>
-  </body>
 </asp:Content>
