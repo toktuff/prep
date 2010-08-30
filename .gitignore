@@ -3,5 +3,6 @@
 *.suo
 bin/*.dll
 bin/
+obj/
 **/*.pdb
 _ReSharper.*/
